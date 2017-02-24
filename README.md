@@ -7,7 +7,7 @@ Submitted by: Abhijeet Chakrabarti
 
 Here's a walkthrough of implemented user stories:
 
-![]()
+![](https://github.com/abhic001/Parse-Chat/blob/master/ParseChat.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
